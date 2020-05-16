@@ -1,7 +1,5 @@
 # BEAR.Sample04
 
-BEAR.Skeleton + BEAR.Middleware 
-
 手動コンパイルしたリソースオブジェクトが再生成される現象
 
 ## 手順
