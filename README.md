@@ -82,13 +82,13 @@ ls -l var/tmp/prod-cli-hal-app/di/MyVendor_MyProject_Resource_Page_Index-.php
 -rw-r--r-- 1 root root 270  5月 16 10:41 var/tmp/prod-cli-hal-app/di/MyVendor_MyProject_Resource_Page_Index-.php
 ```
 
-7. リクエスト確認
+7. 再度、リクエスト確認
 
 ```bash
 php ./bin/page.php get /
 ```
 
-8. コンパイル済みおんリソースオブジェクトのタイムスタンプが変わっている
+8. 5番でコンパイルしたリソースオブジェクトのタイムスタンプが変わっている
 
 ```
 -rw-r--r-- 1 root root 270  5月 16 10:42 var/tmp/prod-cli-hal-app/di/MyVendor_MyProject_Resource_Page_Index-.php
